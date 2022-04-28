@@ -33,7 +33,22 @@
 .first .box1:hover {
     transform: scale(1.1);
     transition: transform 400ms;
-    background-color: bisque;
+    background-color: #872891
+}
+.first .box2:hover {
+    transform: scale(1.1);
+    transition: transform 400ms;
+    background-color: #ffcd05
+}
+.second .box3:hover {
+    transform: scale(1.1);
+    transition: transform 400ms;
+    background-color: #2382cb
+}
+.second .box4:hover {
+    transform: scale(1.1);
+    transition: transform 400ms;
+    background-color: #00b45a
 }
 
 .first .box2 {
